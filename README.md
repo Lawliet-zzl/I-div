@@ -5,7 +5,7 @@
 To install all dependencies, use the following command to create the environment from the provided `yaml` file:
 
 ```bash
-conda env create -f pynet_environment.yaml
+conda env create -f env.yaml
 ```
 
 ## Data Preparation
